@@ -4,7 +4,7 @@
 //
 //  Created by Mian Muhammad Faraz  on 10/4/2023
 //  Updated on 21/4/2023
-//  Copyright Â© 2020 Mian Muhammad Faraz . All rights reserved.
+//  Copyright Â© 2023 Mian Muhammad Faraz . All rights reserved.
 //
 
 #include <iostream>
